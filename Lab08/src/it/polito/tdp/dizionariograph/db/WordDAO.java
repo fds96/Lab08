@@ -8,6 +8,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class WordDAO {
+	
+	public WordDAO() {
+		
+	}
 
 	/*
 	 * Ritorna tutte le parole di una data lunghezza
